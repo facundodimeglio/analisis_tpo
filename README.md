@@ -11,7 +11,7 @@
 ### 📊 Resultado del análisis:
 
 #### 📷 **Gráfico generado:**
-_(image)_
+![image](https://github.com/user-attachments/assets/1e3f55b3-39e1-45fa-b37d-6d5d8b54f2c6)
 
 Este gráfico representa la cantidad de intentos de acceso fallidos por ubicación.
 
