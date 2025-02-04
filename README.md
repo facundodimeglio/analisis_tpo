@@ -63,9 +63,8 @@ Contraseña segura.
 
 ---
 
-### 📌 Notas finales:
+
 - **Santander_Analisis.py** ayuda a detectar patrones sospechosos en intentos de acceso.
 - **Validacion_Inputs.py** permite verificar si un usuario y contraseña cumplen con las políticas de seguridad del banco.
 - Estos scripts pueden utilizarse como base para pruebas de seguridad en sistemas de autenticación.
 
-🚀 ¡Listo para pruebas y mejoras! 🎯
