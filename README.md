@@ -15,6 +15,22 @@
 
 Este gráfico representa la cantidad de intentos de acceso fallidos por ubicación.
 
+Posibles accesos sospechosos detectados:
+
+Además, se muestra el siguiente Output por consola:
+
+Posibles accesos sospechosos detectados:
+Usuario: user1 - Ubicación: EE.UU. - IP: 45.67.89.10  
+Usuario: user1 - Ubicación: Rusia - IP: 102.54.32.11  
+Usuario: user2 - Ubicación: Brasil - IP: 190.23.45.12  
+Usuario: user2 - Ubicación: EE.UU. - IP: 45.67.89.10  
+Usuario: user3 - Ubicación: España - IP: 170.33.56.78  
+Usuario: user3 - Ubicación: China - IP: 203.45.12.89  
+Usuario: user4 - Ubicación: Nigeria - IP: 99.99.99.99  
+Usuario: user4 - Ubicación: EE.UU. - IP: 45.67.89.10  
+Usuario: user4 - Ubicación: EE.UU. - IP: 45.67.89.10  
+
+
 ### 🔍 Análisis de los datos:
 - **EE.UU.** tiene la mayor cantidad de intentos fallidos (4 intentos), lo que podría indicar actividad inusual desde esta región.
 - **Rusia, Brasil, España, China y Nigeria** presentan cada uno 1 intento fallido.

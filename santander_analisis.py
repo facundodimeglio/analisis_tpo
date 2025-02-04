@@ -35,6 +35,6 @@ plt.xticks(rotation=45)
 plt.show()
 
 # Detección de actividad sospechosa
-print("\n🔴 Posibles accesos sospechosos detectados:")
+print("\n Posibles accesos sospechosos detectados:")
 for index, row in intentos_fallidos.iterrows():
-    print(f"Usuario: {row['usuario']} - Ubicación: {row['ubicacion']} - IP: {row['ip']} 🚨")
+    print(f"Usuario: {row['usuario']} - Ubicación: {row['ubicacion']} - IP: {row['ip']} ")
